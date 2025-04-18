@@ -46,14 +46,20 @@ const data = {
       icon: IconDashboard,
     },
     {
-      title: "Discussions",
-      url: "/discussions",
-      icon: IconListDetails,
+      title: "Chat",
+      url: "/chat",
+      icon: IconChartBar,
     },
+    
     {
       title: "Connect",
       url: "/connect",
       icon: IconChartBar,
+    },
+    {
+      title: "Discussions",
+      url: "/discussions",
+      icon: IconListDetails,
     },
     {
       title: "Projects",
